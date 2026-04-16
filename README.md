@@ -1,68 +1,70 @@
 # 👋 Hey, I'm Akshay Tiwari
 
-🚀 *Building my journey from a CSE student to a skilled developer*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=CSE+Student;Web+Developer+in+Progress;Building+Cool+Projects;Future+Full+Stack+Developer" />
+</p>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
+
+💡 Passionate about building things that live on the internet
 
 * 🎓 B.Tech CSE Student
-* 💻 Currently learning **Web Development**
-* 🧩 Love solving problems & building real-world projects
-* 🎯 Goal: Become a strong developer with impactful projects
+* 💻 Learning Web Development
+* 🧠 Problem Solver
+* 🎯 Focused on Growth & Consistency
 
 ---
 
 ## ⚡ Tech Stack
 
-💡 What I work with:
-
-* 🌐 HTML | CSS | JavaScript
-* 🐍 Python (Basics)
-* 🗄️ MySQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql,git,github,vscode" />
+</p>
 
 ---
 
-## 🔥 Current Focus
+## 🔥 Featured Projects
 
-* Building real-world web projects
-* Improving problem-solving skills
-* Learning modern development tools
+🚀 **Instagram Clone**
 
----
-
-## 🚀 Featured Projects
-
-### 📸 Instagram Clone
-
-* Responsive UI inspired by Instagram
 * Dynamic user profiles
-* Clean and structured code
+* Clean UI & responsive design
 
-### 🌦️ Weather App
+🌦️ **Weather App**
 
-* Fetches real-time weather data using API
-* Simple and user-friendly UI
+* Real-time weather using API
+* Simple and clean UI
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=the-akshay-tiwari\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=the-akshay-tiwari&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-akshay-tiwari&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-## 🌱 Growth Mindset
+## 🐍 Contribution Snake
 
-> “Consistency beats talent when talent doesn’t work hard.”
+<p align="center">
+  <img src="https://raw.githubusercontent.com/the-akshay-tiwari/the-akshay-tiwari/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌱 Quote I Follow
+
+> “Code. Learn. Build. Repeat.”
 
 ---
 
 ## 🤝 Let's Connect
 
-* 💼 Working on exciting projects
-* 📬 Always open to learning & collaboration
+💬 Open for collaboration & learning
 
----
-
-⭐ *Check out my repositories and drop a star if you like my work!*
+⭐ *Star my repos if you like my work!*
