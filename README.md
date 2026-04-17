@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Akshay Tiwari
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=CSE+Student;Web+Developer+in+Progress;Building+Cool+Projects;Future+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=25&center=true&vCenter=true&width=500&lines=CSE+Student;Web+Developer+in+Progress;Building+Cool+Projects;Future+Full+Stack+Developer" />
 </p>
 
 ---
