@@ -44,7 +44,7 @@
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=the-akshay-tiwari&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-akshay-tiwari&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=the-akshay-tiwari&theme=tokyonight&hide_border=true&cache_seconds=1" />
 </p>
 
 ---
